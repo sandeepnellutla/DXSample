@@ -1,8 +1,6 @@
-﻿using System;
-using DevExpress.Mvvm.DataAnnotations;
-using DevExpress.Mvvm;
-using DXSample.Data;
+﻿using DevExpress.Mvvm.DataAnnotations;
 using DevExpress.Mvvm.POCO;
+using DXSample.Data;
 
 namespace DXSample.ViewModels
 {

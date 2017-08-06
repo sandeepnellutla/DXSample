@@ -6,6 +6,6 @@
              xmlns:views="clr-namespace:DXSample.Views"
         Title="MainWindow" Height="500" Width="800" WindowStartupLocation="CenterScreen" >
     <Grid>
-        <views:DxTabView></views:DxTabView>
+        <views:DxGroupView></views:DxGroupView>
     </Grid>
 </dx:DXWindow>
